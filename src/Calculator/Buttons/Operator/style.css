@@ -1,0 +1,8 @@
+button.operator {
+  background-color: rgb(180, 179, 162);
+}
+
+button.operator:hover {
+  background-color: rgba(180, 179, 162, 0.8);
+
+}

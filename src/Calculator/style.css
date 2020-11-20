@@ -1,0 +1,11 @@
+.container {
+  margin: auto;
+  background-color: antiquewhite;
+  max-width: 240px;
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+}

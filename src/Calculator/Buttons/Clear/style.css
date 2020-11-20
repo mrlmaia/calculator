@@ -1,0 +1,9 @@
+button.clear-button {
+  width:100%;
+  height: 100%;
+  background-color: rgba(243, 242, 242, 0.8);
+}
+
+button.clear-button:hover {
+  background-color: rgba(243, 242, 242, 1);
+}
